@@ -1,5 +1,5 @@
 # ScottBot
-This is a very old and disorganized project I made to answer questions from the game show app HQ Trivia.
+This is a very old and disorganized project I made to answer questions from the game show app HQ Trivia. It was named after the games original host.
 
 It sets up a websocket to intercept the traffic coming to your app's account where it will parse out when a question has been received.
 It then scrapes google, bing, and wikipedia for potential answers.
